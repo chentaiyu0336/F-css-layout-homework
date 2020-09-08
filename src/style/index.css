@@ -18,3 +18,12 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+nav {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2% 0;
+}
