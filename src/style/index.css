@@ -80,5 +80,40 @@ ul {
 }
 
 .loginCard {
-  border: 1px solid lightgray;
+  display: flex;
+  align-items: center;
+}
+
+form {
+  background-color: rgb(233, 233, 233);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10%;
+  width: 100%;
+}
+
+.checkbox,
+.signButton {
+  margin-top: 7%;
+}
+
+.inputText {
+  width: 80%;
+  padding: 3%;
+}
+
+.checkbox {
+  font-size: smaller;
+}
+
+.signButton {
+  margin-bottom: 10%;
+  width: 80%;
+  padding: 3% 0;
+  background-color: rgb(35, 139, 236);
+  color: white;
+  font-size: large;
+  border: 0;
 }
