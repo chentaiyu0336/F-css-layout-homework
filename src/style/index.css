@@ -19,7 +19,7 @@ ul {
   padding: 0;
 }
 
-nav {
+.headnav {
   background-color: black;
   color: white;
   display: flex;
