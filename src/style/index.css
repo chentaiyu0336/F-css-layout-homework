@@ -34,12 +34,12 @@ ul {
   margin: 2%;
 }
 
-.cardColumn1 {
+.cardColumnMiddle {
   margin: 0 1%;
   width: 33%;
 }
 
-.cardColumn2 {
+.cardColumnAside {
   margin: 0 1%;
   width: 17%;
 }
